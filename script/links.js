@@ -63,4 +63,14 @@ export const links = [
     color: "lime", // Indigo
     description: "Code: 3birr59z", // Opsional
   },
+  {
+    name: "Voltix Ai",
+    url: "https://voltix.ai/login?ref=DQZLG",
+    color: "olive", // olive
+  },
+  {
+    name: "DeSpeed",
+    url: "https://app.despeed.net/register?ref=ga818sR6Exjy",
+    color: "coral", // olive
+  },
 ];

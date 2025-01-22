@@ -19,6 +19,27 @@
   --maroon: #800000;
   --olive: #808000;
   --beige: #F5F5DC;
+  --lavender: #E6E6FA;
+  --salmon: #FA8072;
+  --turquoise: #40E0D0;
+  --coral: #FF7F50;
+  --peach: #FFE5B4;
+}
+
+.link.peach {
+  background-color: var(--peach);
+}
+
+.link.coral {
+  background-color: var(--coral);
+}
+
+.link.salmon {
+  background-color: var(--salmon);
+}
+
+.link.lavender {
+  background-color: var(--lavender);
 }
 
 .link.cyan {
