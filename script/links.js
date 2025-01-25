@@ -43,8 +43,8 @@ export const links = [
     description: "Code: 3YTta", // Opsional
   },
   {
-    name: "Stream Ai",
-    url: "https://app.allstream.ai/index?referralCode=VJKKXCPU",
+    name: "MinionLab",
+    url: "https://app.minionlab.ai/?referralCode=VJKKXCPU",
     color: "pink", // Pink
   },
   {
