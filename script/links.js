@@ -7,6 +7,21 @@ export const links = [
     color: "purple", // Blue
   },
   {
+    name: "Voltix Ai",
+    url: "https://voltix.ai/login?ref=DQZLG",
+    color: "olive", // olive
+  },
+  {
+    name: "MinionLab",
+    url: "https://app.minionlab.ai/?referralCode=VJKKXCPU",
+    color: "pink", // Pink
+  },
+  {
+    name: "DeSpeed",
+    url: "https://app.despeed.net/register?ref=ga818sR6Exjy",
+    color: "coral", // olive
+  },
+  {
     name: "Gradient Network",
     url: "https://app.gradient.network/signup?code=6POEWC",
     color: "red", // Orange
@@ -43,11 +58,6 @@ export const links = [
     description: "Code: 3YTta", // Opsional
   },
   {
-    name: "MinionLab",
-    url: "https://app.minionlab.ai/?referralCode=VJKKXCPU",
-    color: "pink", // Pink
-  },
-  {
     name: "Toggle",
     url: "https://toggle.pro/sign-up/3290a7d9-5a77-4ea9-92c3-47c55bdd2330",
     color: "cyan", // Teal
@@ -62,15 +72,5 @@ export const links = [
     url: "https://www.dawninternet.com/",
     color: "lime", // Indigo
     description: "Code: 3birr59z", // Opsional
-  },
-  {
-    name: "Voltix Ai",
-    url: "https://voltix.ai/login?ref=DQZLG",
-    color: "olive", // olive
-  },
-  {
-    name: "DeSpeed",
-    url: "https://app.despeed.net/register?ref=ga818sR6Exjy",
-    color: "coral", // olive
-  },
+  }
 ];
